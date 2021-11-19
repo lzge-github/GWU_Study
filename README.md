@@ -8,6 +8,6 @@ Repository for Schoolwork at GWU. More details about each project can be found u
 We will use the nucleotide sequences of the five classes (fish, amphibians, reptiles, mammals, and birds) of vertebrates involved to analyze the phylogenetic relationship. We plan to pick 10 species of each class. Related 3D figures will also be obtained.
 
 ![vertebrate](https://user-images.githubusercontent.com/94587100/142547436-835167dd-2210-47bc-884b-c8029f935b7e.jpg)
-Picture from Biologydictionary.net Editors. (2021, February 13). Vertebrate. Retrieved from https://biologydictionary.net/vertebrate/
+_Picture from Biologydictionary.net Editors. (2021, February 13). Vertebrate. Retrieved from https://biologydictionary.net/vertebrate/_
 
 ### **Project 2** _PUBH6885 Computational Biology_
